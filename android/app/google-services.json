@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767857789128",
+    "project_id": "mangaz-ce2f8",
+    "storage_bucket": "mangaz-ce2f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767857789128:android:6bb3de36f1e48073cabdfd",
+        "android_client_info": {
+          "package_name": "com.example.project_btl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWbAiuWgtzlNUV9k7hAZtes3l5E7kTb6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

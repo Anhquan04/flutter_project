@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📱 Flutter Comic Reader
 
 A mobile comic reading application built with Flutter, Firebase, and SharedPreferences.
@@ -107,3 +108,21 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yourusername&icon=0&color=0)](https://visitcount.itsvg.in)
+=======
+# project_btl
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> ec8fbfd (Initial commit)
