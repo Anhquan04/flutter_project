@@ -22,8 +22,7 @@ A feature-rich comic reading application that provides a seamless experience for
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![RestAPI](https://img.shields.io/badge/REST_API-02303A?style=for-the-badge&logo=json&logoColor=white)
+![MockAPI]([https://img.shields.io/badge/REST_API-02303A?style=for-the-badge&logo=json&logoColor=white](https://mockapi.io/projects/657fc7106ae0629a3f53a004))
 
 ## 🏗️ Project Structure
 
